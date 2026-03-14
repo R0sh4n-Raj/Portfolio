@@ -1,8 +1,44 @@
-# Hi, I'm Roshan Raj
---------------------------------------------------------------------
+# 👋 Hi, I'm Roshan Raj
+
 🎓 BCA in Google App
-🔐 Programming & Cybersecurity
-🛠 Focus Areas: Linux, Web & API Security,Python, Design
+💻 Python Developer | Web Developer | Cyber Security Learner
+🛠 Focus Areas: Networking Fundamentals, Linux, Web & API Security
 📍 India
 
-# Skill
+---
+
+## 🧑‍💻 About Me
+
+I am passionate about programming and cyber security.
+Currently learning Python, FastAPI, and MongoDB.
+
+---
+
+## 🚀 Skills
+
+- ADCA
+- Design
+- Python
+- MongoDB
+- Kali Linux
+- Bug Hunting & Pen Testing 
+
+---
+
+## 📂 Projects
+
+### Online Exam System
+- Built using FastAPI
+- HTML, CSS, JavaScript
+- MongoDB Database
+
+### Portfolio Website
+- Personal developer portfolio
+- Responsive design
+
+---
+
+## 📞 Contact
+
+Email: officialmailroshan@gmail.com  
+GitHub: https://github.com/R0sh4n-Raj
