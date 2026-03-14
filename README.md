@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Roshan Raj
 
-🎓 BCA in Google App
-💻 Python Developer | Web Developer | Cyber Security Learner
+🎓 BCA Student  
+💻 Python Developer  
+🌐 Web Developer  
+🔐 Cyber Security Learner  
 📍 India
 
 ## 🧑‍💻 About Me
