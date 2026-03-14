@@ -4,14 +4,10 @@
 💻 Python Developer | Web Developer | Cyber Security Learner
 📍 India
 
----
-
 ## 🧑‍💻 About Me
 
 I am passionate about programming and cyber security.
 Currently learning Python, FastAPI, and MongoDB.
-
----
 
 ## 🚀 Skills
 
@@ -21,8 +17,6 @@ Currently learning Python, FastAPI, and MongoDB.
 - MongoDB
 - Kali Linux
 - Bug Hunting & Pen Testing 
-
----
 
 ## 📂 Projects
 
@@ -34,8 +28,6 @@ Currently learning Python, FastAPI, and MongoDB.
 ### Portfolio Website
 - Personal developer portfolio
 - Responsive design
-
----
 
 ## 📞 Contact
 
