@@ -2,7 +2,6 @@
 
 🎓 BCA in Google App
 💻 Python Developer | Web Developer | Cyber Security Learner
-🛠 Focus Areas: Networking Fundamentals, Linux, Web & API Security
 📍 India
 
 ---
@@ -18,7 +17,7 @@ Currently learning Python, FastAPI, and MongoDB.
 
 - ADCA
 - Design
-- Python
+- Python(Beginner)
 - MongoDB
 - Kali Linux
 - Bug Hunting & Pen Testing 
