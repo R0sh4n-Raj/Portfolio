@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 About Me
 
-I am passionate about programming and cyber security.
+I'm passionate about programming and cyber security.
 Currently learning Python, FastAPI, and MongoDB.
 
 ## 🚀 Skills
