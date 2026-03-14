@@ -40,7 +40,8 @@ Currently learning Python, FastAPI, and MongoDB.
 ## 📞 Contact
 
 Email: officialmailroshan@gmail.com  
-Linkdin: www.linkedin.com/in/roshan-raj-565b7b336
 GitHub: https://github.com/R0sh4n-Raj 
+Linkdin: www.linkedin.com/in/roshan-raj-565b7b336 
+
 
 
